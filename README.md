@@ -45,6 +45,6 @@ Chicago, Illinois, USA
 **Co-President - Filipino Student Association Waterloo (_Sept 203 - Present_)**
 **Founder - Institute of Industrial and Systems Engineering University of Waterloo Chapter (_Jan 2023 - Present_)**
 **Engineering Mentor and Orientation Leader - University of Waterloo (_May 2022 - Present_)**
-**Presient - Industry 4.0 Design Team (_Sept 2021 - Present_)**
+**President - Industry 4.0 Design Team (_Sept 2021 - Present_)**
 
 ## Feel Free to ask me About..
