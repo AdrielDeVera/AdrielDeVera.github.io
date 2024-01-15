@@ -1,5 +1,6 @@
 # Software Developer
 [My Personal Blog](https://medium.com/@adrv.eraa)
+
 [LinkedIN]()
 
 #### Technical Skills: 
