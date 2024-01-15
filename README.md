@@ -1,7 +1,7 @@
 # Software Developer
 [My Personal Blog](https://medium.com/@adrv.eraa)
 
-[LinkedIN]()
+[LinkedIn](https://www.linkedin.com/in/adrieldevera/)
 
 #### Technical Skills: 
 
@@ -51,3 +51,6 @@ Chicago, Illinois, USA
 **President - Industry 4.0 Design Team (_Sept 2021 - Present_)**
 
 ## Feel Free to ask me About..
+- Personal Knowledge Management (P.K.M)
+- Software Architecture and Design Patterns
+- Machine Learning 
